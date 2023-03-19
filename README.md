@@ -1,5 +1,5 @@
 # CSCI6511_AI_Project2
-Implementing CSP with Arc Consiistency to find the solution of Graph Coloring Problem
+Implementing CSP with Arc Consistency to find the solution of Graph Coloring Problem
 
 Steps to Run the Program:
  1. Downlaod the code and Extract the File on your Local System
